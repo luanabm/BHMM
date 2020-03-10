@@ -1,3 +1,2 @@
 # BHMM
-<< 
-better have my money >>
+> Better have my money
